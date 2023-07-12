@@ -1,1 +1,1 @@
-### Hi, I am Amangeldiyeva Leyli Sabirbayevna <iframe src="https://giphy.com/embed/pr1dbVONbGeVvSiECh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-hi-greeting-pr1dbVONbGeVvSiECh">via GIPHY</a></p>
+### Hi, I am Amangeldiyeva Leyli Sabirbayevna <img src="https://media0.giphy.com/media/pr1dbVONbGeVvSiECh/giphy.gif?cid=ecf05e4759fxbd950wuw6isk3q572jyz6h4cfy656vl73p2m&ep=v1_stickers_search&rid=giphy.gif&ct=s">
