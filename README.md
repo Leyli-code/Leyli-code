@@ -17,7 +17,7 @@ Languages and Tools I work with:<br>
 <img src="https://i2.wp.com/miro.medium.com/1*CE8M-Lil_f-CA9YmSx3XAA.png" width="50px">
 <img src="https://www.freedownloadlogo.com/logos/t/tailwindcss.svg" width="45px">
 <img src="https://slivmk.com/wp-content/uploads/2023/04/udemy-sovremennyj-javascript-s-nulya-na-realnyh-proektah-denis-meshheryakov_6434dc5d2e458.png" width="40px">
-<img src="https://kungfudb.org/img/angularjs_logo.png" width="40px">
+<img src="https://w7.pngwing.com/pngs/1014/365/png-transparent-angular-js-full-logo-tech-companies-thumbnail.png" width="40px">
 <img src="" width="40px">
 <img src="" width="40px">
 <img src="" width="40px">
