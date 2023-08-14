@@ -18,7 +18,7 @@ Languages and Tools I work with:<br>
 <img src="https://www.freedownloadlogo.com/logos/t/tailwindcss.svg" width="45px">
 <img src="https://slivmk.com/wp-content/uploads/2023/04/udemy-sovremennyj-javascript-s-nulya-na-realnyh-proektah-denis-meshheryakov_6434dc5d2e458.png" width="40px">
 <img src="https://www.mag-corp.com/wp-content/uploads/2021/08/angular.png" width="60px">
-<img src="http://banner2.cleanpng.com/20180726/hqz/kisspng-react-native-javascript-mobile-app-development-5b5951ac6abe34.3925593415325802684372.jpg" width="40px">
+<img src="https://img2.freepng.ru/20180713/age/kisspng-react-logo-angularjs-javascript-vue-js-learning-themes-5b4971e6e85828.0861532215315399429517.jpg" width="40px">
 <img src="" width="40px">
 <img src="" width="40px">
 <img src="https://www.pinclipart.com/picdir/big/147-1475273_hot-to-reset-reinitialise-a-git-repository-git.png" width="40px">
