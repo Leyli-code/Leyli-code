@@ -19,7 +19,7 @@ Languages and Tools I work with:<br>
 <img src="https://slivmk.com/wp-content/uploads/2023/04/udemy-sovremennyj-javascript-s-nulya-na-realnyh-proektah-denis-meshheryakov_6434dc5d2e458.png" width="40px">
 <img src="https://www.mag-corp.com/wp-content/uploads/2021/08/angular.png" width="60px">
 <img src="https://previews.123rf.com/images/fokaspokas/fokaspokas1808/fokaspokas180800395/106796567-scientific-atom-symbol-simple-icon-colorful-logo-concept-with-soft-shadow-on-dark-background-icon-co.jpg" width="40px">
-<img src="" width="40px">
+<img src="https://green-api.com/integrations/img/nodejs.png" width="40px">
 <img src="" width="40px">
 <img src="https://www.pinclipart.com/picdir/big/147-1475273_hot-to-reset-reinitialise-a-git-repository-git.png" width="40px">
 <img src="https://avatars.dzeninfra.ru/get-zen_doc/2945823/pub_5f71f045837d8d53234e1c32_5f71f0874fade30a2ab6df15/scale_1200" width="40px">
