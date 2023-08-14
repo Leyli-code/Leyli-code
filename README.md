@@ -23,4 +23,4 @@ Languages and Tools I work with:<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" width="40px">
 <img src="https://www.pinclipart.com/picdir/big/147-1475273_hot-to-reset-reinitialise-a-git-repository-git.png" width="40px">
 <img src="https://avatars.dzeninfra.ru/get-zen_doc/2945823/pub_5f71f045837d8d53234e1c32_5f71f0874fade30a2ab6df15/scale_1200" width="40px">
-<img src="https://www.freedownloadlogo.com/logos/n/nuxt-square.svg" width="40px">
+<img src="https://www.freedownloadlogo.com/logos/n/nuxt-square.svg" width="50px">
