@@ -15,9 +15,9 @@ Languages and Tools I work with:<br>
 <img src="https://gas-kvas.com/uploads/posts/2023-02/1675463198_gas-kvas-com-p-fonovii-risunok-v-css3-3.png" width="40px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50px">
 <img src="https://i2.wp.com/miro.medium.com/1*CE8M-Lil_f-CA9YmSx3XAA.png" width="50px">
-<img src="https://www.freedownloadlogo.com/logos/t/tailwindcss.svg" width="40px">
+<img src="https://www.freedownloadlogo.com/logos/t/tailwindcss.svg" width="45px">
 <img src="https://slivmk.com/wp-content/uploads/2023/04/udemy-sovremennyj-javascript-s-nulya-na-realnyh-proektah-denis-meshheryakov_6434dc5d2e458.png" width="40px">
-<img src="" width="40px">
+<img src="https://kungfudb.org/img/angularjs_logo.png" width="40px">
 <img src="" width="40px">
 <img src="" width="40px">
 <img src="" width="40px">
