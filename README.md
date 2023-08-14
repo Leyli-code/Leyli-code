@@ -11,7 +11,7 @@ Connect with me: <br>
 </a>
 
 Languages and Tools I work with:<br>
-<img src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?size=626&ext=jpg" width="40px">
+<img src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?size=626&ext=jpg" width="50px">
 <img src="https://gas-kvas.com/uploads/posts/2023-02/1675463198_gas-kvas-com-p-fonovii-risunok-v-css3-3.png" width="40px">
 <img src="" width="40px">
 <img src="" width="40px">
