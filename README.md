@@ -2,8 +2,13 @@
 
 Transforming ideas into stunning digital experiences! 🚀 Frontend developer specializing in creating captivating websites and web applications. Bringing creativity, functionality, and user-centric design together to deliver exceptional results.
 
+Connect with me:
 <a href="www.linkedin.com/in/leyli-amangeldiyeva-b84658282">
   <img src="https://cdn.pixabay.com/photo/2017/08/23/22/59/linked-in-2674741_640.png" width="30px">
+</a>
+
+<a href="https://discord.com/channels/@me">
+  <img src="https://i.imgur.com/CE9uEkx.jpg" width="30px">
 </a>
 
 <a href="https://discord.com/channels/@me">
