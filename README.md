@@ -10,9 +10,17 @@ Connect with me: <br>
   <img src="https://i.imgur.com/CE9uEkx.jpg" width="30px">
 </a>
 
-Languages and Tools I work with:
+Languages and Tools I work with:<br>
 <img src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?size=626&ext=jpg" width="40px">
+<img src="https://gas-kvas.com/uploads/posts/2023-02/1675463198_gas-kvas-com-p-fonovii-risunok-v-css3-3.png" width="40px">
+<img src="" width="40px">
+<img src="" width="40px">
+<img src="" width="40px">
 <img src="https://slivmk.com/wp-content/uploads/2023/04/udemy-sovremennyj-javascript-s-nulya-na-realnyh-proektah-denis-meshheryakov_6434dc5d2e458.png" width="40px">
+<img src="" width="40px">
+<img src="" width="40px">
+<img src="" width="40px">
+<img src="" width="40px">
 <img src="https://www.pinclipart.com/picdir/big/147-1475273_hot-to-reset-reinitialise-a-git-repository-git.png" width="40px">
 <img src="https://avatars.dzeninfra.ru/get-zen_doc/2945823/pub_5f71f045837d8d53234e1c32_5f71f0874fade30a2ab6df15/scale_1200" width="40px">
-
+<img src="" width="40px">
