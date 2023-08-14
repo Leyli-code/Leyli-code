@@ -3,5 +3,5 @@
 Transforming ideas into stunning digital experiences! 🚀 Frontend developer specializing in creating captivating websites and web applications. Bringing creativity, functionality, and user-centric design together to deliver exceptional results.
 
 <a href="www.linkedin.com/in/leyli-amangeldiyeva-b84658282">
-  <img src="file:///C:/Users/New/Downloads/png-clipart-linkedin-computer-icons-logo-hamilton-advokat-resurs-ab-saab-automobile-miscellaneous-blue-removebg-preview.png" width="30px">
+  <img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" width="30px">
 </a>
