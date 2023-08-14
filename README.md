@@ -17,8 +17,8 @@ Languages and Tools I work with:<br>
 <img src="https://i2.wp.com/miro.medium.com/1*CE8M-Lil_f-CA9YmSx3XAA.png" width="50px">
 <img src="https://www.freedownloadlogo.com/logos/t/tailwindcss.svg" width="45px">
 <img src="https://slivmk.com/wp-content/uploads/2023/04/udemy-sovremennyj-javascript-s-nulya-na-realnyh-proektah-denis-meshheryakov_6434dc5d2e458.png" width="40px">
-<img src="https://www.mag-corp.com/wp-content/uploads/2021/08/angular.png" width="40px">
-<img src="" width="40px">
+<img src="https://www.mag-corp.com/wp-content/uploads/2021/08/angular.png" width="55px">
+<img src="https://gitlab.com/uploads/-/system/project/avatar/33045377/2507930-middle.png" width="40px">
 <img src="" width="40px">
 <img src="" width="40px">
 <img src="https://www.pinclipart.com/picdir/big/147-1475273_hot-to-reset-reinitialise-a-git-repository-git.png" width="40px">
