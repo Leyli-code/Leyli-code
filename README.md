@@ -12,7 +12,7 @@ Connect with me: <br>
 
 Languages and Tools I work with:
 <code><img src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?size=626&ext=jpg" width="40px"></code>
-<code><img src="https://e7.pngegg.com/pngimages/934/246/png-clipart-cascading-style-sheets-html-css3-bootstrap-world-wide-web-blue-angle.png" width="40px"></code>
+<code><img src="https://e7.pngegg.com/pngimages/893/87/png-clipart-cascading-style-sheets-logo-css3-html-css3-logo-blue-angle.png" width="40px"></code>
 <code><img src="https://img.freepik.com/free-icon/html-5_318-674234.jpg?size=626&ext=jpg" width="40px"></code>
 <code><img src="https://w7.pngwing.com/pngs/206/645/png-transparent-sass-logos-and-brands-line-filled-icon.png" width="40px"></code>
 <code><img src="https://slivmk.com/wp-content/uploads/2023/04/udemy-sovremennyj-javascript-s-nulya-na-realnyh-proektah-denis-meshheryakov_6434dc5d2e458.png" width="40px"></code>
